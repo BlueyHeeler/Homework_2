@@ -1,7 +1,9 @@
 MyRottenPotatoes
 
-Trabalho do Homework 2 da matéria Engenharia de Software, baseado no livro Construindo Software como Serviço: Uma Abordagem Ágil Usando Computação em Nuvem (Primeira Edição, 1.1.2) de Armando Fox e David Patterson, editado por Samuel Joseph, com tradução de Daniel Cordeiro e Fabio Kon.
-Este projeto está relacionado à tarefa do Capítulo 4 - Introdução ao Rails.
+Trabalho do Homework 2 da matéria Engenharia de Software, baseado no livro Construindo Software como Serviço: Uma Abordagem Ágil Usando Computação em Nuvem (Primeira Edição, 1.1.2) de Armando Fox e David Patterson
+Este projeto está relacionado à tarefa do Capítulo 4 - Introdução ao Rails, criação do site myrottenPotatoes.
+
+
 Como Iniciar
 
 Siga os passos abaixo para configurar o projeto localmente:
