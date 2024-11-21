@@ -1,24 +1,37 @@
-# README
+MyRottenPotatoes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Trabalho do Homework 2 da matéria Engenharia de Software, baseado no livro Construindo Software como Serviço: Uma Abordagem Ágil Usando Computação em Nuvem (Primeira Edição, 1.1.2) de Armando Fox e David Patterson, editado por Samuel Joseph, com tradução de Daniel Cordeiro e Fabio Kon.
+Este projeto está relacionado à tarefa do Capítulo 4 - Introdução ao Rails.
+Como Iniciar
 
-Things you may want to cover:
+Siga os passos abaixo para configurar o projeto localmente:
 
-* Ruby version
+    Crie uma nova pasta e entre nela
 
-* System dependencies
+mkdir myrottenpotatoes
+cd myrottenpotatoes
 
-* Configuration
+Crie um novo projeto Rails
+No terminal, execute:
 
-* Database creation
+rails new myrottenpotatoes -T
 
-* Database initialization
+Substitua os arquivos
 
-* How to run the test suite
+    Delete todos os arquivos e pastas dentro do diretório myrottenpotatoes.
+    Substitua pelos arquivos deste repositório (clonando ou baixando o ZIP).
 
-* Services (job queues, cache servers, search engines, etc.)
+Acesse a pasta do projeto
 
-* Deployment instructions
+cd myrottenpotatoes
 
-* ...
+Execute as migrações do banco de dados
+
+rails db:migrate
+
+Inicie o servidor
+
+rails server
+
+Acesse a aplicação
+Abra o navegador e vá para http://localhost:3000. Se tudo estiver correto, a página será carregada com sucesso.
