@@ -8,7 +8,7 @@ Como Iniciar
 
 Siga os passos abaixo para configurar o projeto localmente:
 
-    Crie uma nova pasta e entre nela
+Crie uma nova pasta e entre nela
 
 mkdir myrottenpotatoes
 cd myrottenpotatoes
@@ -20,8 +20,9 @@ rails new myrottenpotatoes -T
 
 Substitua os arquivos
 
-    Delete todos os arquivos e pastas dentro do diretório myrottenpotatoes.
-    Substitua pelos arquivos deste repositório (clonando ou baixando o ZIP).
+Delete todos os arquivos e pastas dentro do diretório myrottenpotatoes.
+
+Substitua pelos arquivos deste repositório (clonando ou baixando o ZIP).
 
 Acesse a pasta do projeto
 
